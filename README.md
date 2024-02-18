@@ -27,3 +27,7 @@ All contracts are deployed on the Scroll Sepolia testnet. Only "Front end" i.e. 
 |RESERVED_ORACLE_DIRECTORY||[0x70705F499bedd9117d265839AF5E26BA5BdAC886](https://sepolia.scrollscan.dev/address/0x70705F499bedd9117d265839AF5E26BA5BdAC886#code)|3|
 |RESERVED_CHAIN_LINK_ORACLE||[0xc581878B57437b734837d88629539c2cD3cBc696](https://sepolia.scrollscan.dev/address/0xc581878B57437b734837d88629539c2cD3cBc696#code)|1|
 |RESERVED_ZK_ORACLE||[0xEE18Ebd9d89dd9Dff6D5483c515c10F5b9b44ad8](https://sepolia.scrollscan.dev/address/0xEE18Ebd9d89dd9Dff6D5483c515c10F5b9b44ad8#code)|1|
+|RESERVED_ZKD_ASSET_FACTORY|[0x78259d3ee81B20B5b808599178242062BF2dA32a](https://sepolia.scrollscan.dev/address/0x78259d3ee81B20B5b808599178242062BF2dA32a#code)|3|
+|RESERVED_ZK_DEED_BIG_BOARD|[0x7b92FA4318Ba056cA88aa6cd3Fd7b65CF6B54F64](https://sepolia.scrollscan.dev/address/0x7b92FA4318Ba056cA88aa6cd3Fd7b65CF6B54F64#code)|1|
+|RESERVED_ZK_PROOF_GENERATOR|[0x183Bc06F68c98a1dadA7780f58D062C0Ccbd04e0](https://sepolia.scrollscan.dev/address/0x183Bc06F68c98a1dadA7780f58D062C0Ccbd04e0#code)|1|
+
