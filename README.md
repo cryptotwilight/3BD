@@ -21,7 +21,7 @@ assets are behind the deed.
 All contracts are deployed on the Scroll Sepolia testnet. Only "Front end" i.e. user interacting (& non-derivative) contracts have been verified. 
 |Name|Contract | Address | Version |
 |----|---------|---------|---------|
-|RESERVED_ZK_REGISTER|ZKRegister.sol|[0xC2A808664B1287503ca5FFB6eAACea27c508b495] (https://sepolia.scrollscan.dev/address/0xC2A808664B1287503ca5FFB6eAACea27c508b495#code)|
+|RESERVED_ZK_REGISTER|ZKRegister.sol|[0xC2A808664B1287503ca5FFB6eAACea27c508b495](https://sepolia.scrollscan.dev/address/0xC2A808664B1287503ca5FFB6eAACea27c508b495#code)|
 |RESERVED_ZK_ADMIN|N/A|[0x308767913dFeB43649E74276Ee9434687d73813F](https://sepolia.scrollscan.dev/address/0x308767913dFeB43649E74276Ee9434687d73813F#code)|0|
 |RESERVED_ZK_DEED_CONTRACT||[0xab4F0E2D17Ea0aA60fE18E758661E0031F45aB34](https://sepolia.scrollscan.dev/address/0xab4F0E2D17Ea0aA60fE18E758661E0031F45aB34#code)|2|
 |RESERVED_ORACLE_DIRECTORY||[0x70705F499bedd9117d265839AF5E26BA5BdAC886](https://sepolia.scrollscan.dev/address/0x70705F499bedd9117d265839AF5E26BA5BdAC886#code)|3|
